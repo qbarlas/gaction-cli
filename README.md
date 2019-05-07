@@ -8,7 +8,7 @@ See https://developers.google.com/actions/tools/gactions-cli to learn how to use
 
 ### Volumes
 
-- `/workdir` : working directory, to put `actions.json` or `creds.data`
+- `/workdir` : working directory, to put `action.json` or `creds.data`
 
 ### Example
 
